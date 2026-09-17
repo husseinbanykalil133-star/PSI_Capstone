@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecTriage — End-to-End Security Triage Toolkit
 
 **Capstone project — Python for Security, 3-Day Intensive**
@@ -144,3 +145,6 @@ installs; `pytest tests/` also discovers and runs them if you have pytest.)
   real process API.
 - The `sectriage_history.db` SQLite file is created in the current working
   directory unless `--db-path` is given.
+=======
+# cybersecurity-py
+>>>>>>> ea93d34913a1bd24a453c43b81f89a59718a4912
